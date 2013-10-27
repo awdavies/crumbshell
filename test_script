@@ -1,0 +1,7 @@
+echo TESTING
+ls
+echo OKAY
+svn help
+finger
+who
+echo DONE
